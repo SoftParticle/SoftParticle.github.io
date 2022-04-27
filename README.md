@@ -1,2 +1,0 @@
-# SoftParticle.github.io
-SoftParticle
