@@ -7886,9 +7886,7 @@ textarea.form-control-lg {
 }
 
 .bg-gradient {
-  background-image: url("../assets/soap-bubble-20302534.jpg") !important;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: var(--bs-gradient) !important;
 }
 
 .user-select-all {
